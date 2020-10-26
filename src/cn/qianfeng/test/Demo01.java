@@ -30,4 +30,4 @@ public class Demo01 {
         yourclass3.start();
     }
 }
-//1024代码提交Java
+//1026代码提交Java
